@@ -1,4 +1,4 @@
-from downloader import *
+from downloader import Downloader
 
 if __name__ == "__main__":
-    downloader.downloader("https://i.imgur.com/XGynsf0.png")
+    d = Downloader(url="https://i.imgur.com/XGynsf0.png")

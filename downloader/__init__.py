@@ -1,1 +1,3 @@
-from downloader import *
+from downloader.downloader import Downloader
+
+print("Heyyy")
