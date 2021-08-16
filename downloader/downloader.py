@@ -9,11 +9,10 @@ class Downloader:
                 self.fileName = fileName
             else:
                 self.fileName = self.parseName()
-            # Request item from url
+            
             self.requestItem()
             if self.response.status_code == 200:
                 self.saveFile()
-                # Stream the object and save file
         except Exception as e:
             print("Couldn't initiate due to ", e)
 
