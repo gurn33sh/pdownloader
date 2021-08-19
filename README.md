@@ -12,3 +12,5 @@ pip3 install -r requirements.txt
 EXAMPLE USAGE:
 ---
 python main.py --url https://url-to-content.com/abc.png
+
+FOR WEBHOOK
