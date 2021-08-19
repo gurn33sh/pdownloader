@@ -2,7 +2,7 @@
 Download anything
 Add url to cli with --url argument
 
-EXAMPLE:
+EXAMPLE USAGE:
 ---
 
 ./main.py --url https://url-to-content.com/abc.png
