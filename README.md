@@ -1,2 +1,3 @@
 # pdownloader
-Download anything 
+Download anything
+Add url to cli with --url argument
