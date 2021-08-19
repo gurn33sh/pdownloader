@@ -6,7 +6,7 @@ DEPENDENCIES
 ---
 requests
 
-install using
+Install using
 pip3 install -r requirements.txt
 
 EXAMPLE USAGE:
