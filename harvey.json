@@ -1,5 +1,5 @@
 {
-    "pipeline": "full",
+    "pipeline": "deploy",
     "language": "python",
     "version": "3.9"
 }
