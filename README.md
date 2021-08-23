@@ -13,4 +13,3 @@ EXAMPLE USAGE:
 ---
 python main.py --url https://url-to-content.com/abc.png
 
-For webhook
