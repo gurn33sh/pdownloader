@@ -3,7 +3,7 @@ LABEL "AUTHOR"="GURNEESH"
 RUN apk update \
     && mkdir pdownloader
 
-COPY ./* pdownloader/
+COPY . pdownloader/
 
 WORKDIR pdownloader/
 ENTRYPOINT ['python3.9 main.py']
