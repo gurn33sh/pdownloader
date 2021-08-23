@@ -6,4 +6,4 @@ RUN apk update \
 COPY . pdownloader/
 
 WORKDIR pdownloader
-ENTRYPOINT ['python3.9 main.py']
+ENTRYPOINT ['bash']
