@@ -6,4 +6,4 @@ RUN apk update \
 COPY . pdownloader/
 
 WORKDIR pdownloader
-ENTRYPOINT ['bash']
+ENTRYPOINT bash
